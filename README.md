@@ -139,3 +139,13 @@ Here's a detailed look at the topics covered each day:
 ## 🚀 Mini Project Show Time!
 
 The culmination of the learning journey, where acquired knowledge and skills are applied to a practical mini-project, demonstrating understanding and implementation capabilities.
+
+---
+
+## Using Kaggle!
+
+- Sign in Kaggle https://www.kaggle.com/ (You can signup with company email)
+- Go to code https://www.kaggle.com/code
+- Create new or import from file
+  - If you import from file: download from https://github.com/fxanhkhoa/AL-ML-Hackathon/tree/main/training, get any file .ipynb
+  - If you create new: copy content from  .py file and paste into the code block. You can split code block as you want
